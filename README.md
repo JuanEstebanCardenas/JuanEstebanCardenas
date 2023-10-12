@@ -16,5 +16,5 @@ Computer science Software Engineer Student in Doane University (Nebraska)
   Linkedin: https://www.linkedin.com/in/juan-esteban-cardenas-6a0021296/
   Email: juancuv@outlook.com
 - 😄 Pronouns: He/Him
-Looking forward to connecting with fellow coders and potential collaborators. Let's build something awesome together!
+Looking forward to connecting with fellow coders, recruiters and potential collaborators. Let's build something awesome together!
 -->
